@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Employee Management</title>
+
+    <script src="Scripts/jquery-1.10.2.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var uri = 'api/employee';
+
+        function getAllEmployees() {
+            $.getJSON(uri, function (data) {
+                $('#employees').empty();
+                $.each(data, function (key, val) {
+
+                    var row = "<tr><td>" + val.EmployeeID + "</td><td>" + val.Name + "</td><td>" + val.Salary + "</td></tr>";
+
+                    $(row).appendTo($('#employees'));
+                });
+            });
+        }
+
+        function formatEmp(value) {
+            return 'Employee Id : ' + value.EmployeeID + ', Name : ' + value.Name + ', Salary : ' + value.Salary;
+        }
+
+        function find() {
+            var id = $('#empId').val();
+            $.getJSON(uri + '/' + id).done(function (empData) {
+                $("#employee").text(formatEmp(empData));
+            }).fail(function (jqXHR, textStatus, err) {
+                $('#employee').text('Error :' + err);
+            });
+        }
+
+        function AddEmployee() {
+
+            var Emp = {};
+            Emp.Name = $('#name').val();
+            Emp.Salary = $('#salary').val();
+
+            $.ajax({
+                url: "api/employee",
+                type: "POST",
+                contentType: "application/json;charset=utf-8",
+                data: JSON.stringify(Emp),
+                dataType: "json",
+                success: function (response) {
+                    alert('Employee added');
+                    getAllEmployees();
+                    $('#name').val("");
+                    $('#salary').val("");
+                },
+
+                error: function (x, e) {
+                    alert('Failed');
+                    alert(x.responseText);
+                    alert(x.status);
+                }
+            });
+        }
+
+        //Get employee details in text boxes
+        function EditEmployee() {
+            var id = $('#empId').val();
+            $.getJSON(uri + '/' + id).done(function (empData) {
+                //get data in text boxes
+                $("#name").val(empData.Name);
+                $("#salary").val(empData.Salary);
+                //disable save button
+                $('#btnSave').attr('disabled', true);
+                $('#btnSearch').attr('disabled', true);
+                $('#btnEdit').attr('disabled', true);
+                $('#btnDelete').attr('disabled', true);
+            }).fail(function (jqXHR, textStatus, err) {
+                $('#employee').text('Error :' + err);
+            });
+        };
+
+        //Update employee details after edit.
+        function UpdateEmployee() {
+           
+            var Emp = {};           
+            Emp.Name = $('#name').val();
+            Emp.Salary = $('#salary').val();
+
+            var id = $('#empId').val();
+
+            $.ajax({
+                url: uri + '/' + id,
+                type: "PUT",
+                contentType: "application/json;charset=utf-8",
+                data: JSON.stringify(Emp),
+                dataType: "json",
+                success: function (response) {
+                    alert('Employee Updated');
+                    getAllEmployees();
+                    $('#name').val("");
+                    $('#salary').val("");
+
+                    $('#empId').val("");
+                    $('#employee').empty();
+                    //enable save button
+                    $('#btnSave').attr('disabled', false);
+                    $('#btnSearch').attr('disabled', false);
+                    $('#btnEdit').attr('disabled', false);
+                    $('#btnDelete').attr('disabled', false);
+                },
+
+                error: function (x, e) {
+                    alert('Failed');
+                    alert(x.responseText);
+                    alert(x.status);
+                }
+            });
+        }
+
+        function RemoveEmployee() {
+            var id = $('#empId').val();
+            $.ajax({
+                url: uri + '/' + id,
+                type: "DELETE",
+                contentType: "application/json;charset=utf-8",
+                success: function (response) {
+
+                    alert("Employee Deleted");
+                    getAllEmployees();
+                    $('#empId').val("");
+                    $('#employee').empty();                   
+                },
+
+                error: function (x, e) {
+                    alert("Employee Not Found");
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            getAllEmployees();
+        });
+
+    </script>
+</head>
+<body>
+    <h2>Employee Management</h2>
+    <br />
+
+    <table border="1">
+        <thead>
+            <tr>
+                <td>Employee ID</td>
+                <td>Name</td>
+                <td>Salary</td>
+            </tr>
+        </thead>
+        <tbody id="employees"></tbody>
+    </table>
+    <div>
+        <h2>Search by ID</h2>
+        <input type="text" id="empId" size="5" />
+        <input type="button" id="btnSearch" value="Search" onclick="find();" />
+        <input type="button" id="btnEdit" value="Edit" onclick="EditEmployee();" />
+        <input type="button" id="btnDelete" value="Delete" onclick="RemoveEmployee();" />
+        <p id="employee" />
+    </div>
+
+    <br />
+    <br />
+    <h2> Add/Update Employee</h2>
+    <table>
+        <tr>
+            <td>First Name</td>
+            <td>
+                <input type="text" id="name" />
+            </td>
+        </tr>
+        <tr>
+            <td>Salary</td>
+            <td>
+                <input type="text" id="salary" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" id="btnSave" value="Save" onclick="AddEmployee();" />
+            </td>
+            <td>
+                <input type="button" value="Update" onclick="UpdateEmployee();" />
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

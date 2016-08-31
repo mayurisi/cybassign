@@ -1,0 +1,42 @@
+1.Changes made to following method
+	
+	 //return type changed to HttpResponseMessage from Employee
+        public HttpResponseMessage Get(int id)
+        {
+            Employee employee = empList.Find(e => e.EmployeeID == id);
+
+            //returns error with message
+            if(employee == null)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.NotFound, "Employee not found");
+            }  
+
+            //otherwise returns employee
+            return Request.CreateResponse<Employee>(HttpStatusCode.OK, employee);
+        }
+		
+2.Changes made to following method
+
+		//return type changed to HttpResponseMessage from Employee
+        public HttpResponseMessage Post(Employee emp)
+        {
+            if(emp == null)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, "Employee is null", new NullReferenceException());
+            }
+
+            emp.EmployeeID = empList.Count+1;
+            empList.Add(emp);
+
+            var msg = Request.CreateResponse(HttpStatusCode.Created);
+            msg.Headers.Location = new Uri(Request.RequestUri + "/" + (emp.EmployeeID).ToString());
+            return msg;
+        }
+		
+3.Following changes made to Put and Delete
+
+	 //returns error with message
+	if (employee == null)
+	{
+		throw new HttpResponseException(HttpStatusCode.NotFound);
+	}    

@@ -1,0 +1,44 @@
+﻿@model ModelsDemo.Models.Employee
+@{
+    ViewBag.Title = "AddEmployee";
+}
+
+<h2>AddEmployee</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true);
+    <div>
+        <label>Employee Id</label><br />
+        @Html.EditorFor(e => e.EmployeeId)
+        @Html.ValidationMessageFor(e => e.EmployeeId)
+    </div>
+    <div>
+        <label>Name</label><br />
+        @Html.EditorFor(e => e.Name)
+        @Html.ValidationMessageFor(e => e.Name)
+    </div>
+    <div>
+        <label>City</label><br />
+        @Html.EditorFor(e => e.City)
+        @Html.ValidationMessageFor(e => e.City)
+    </div>
+    <div>
+        <label>Salary</label><br />
+        @Html.EditorFor(e => e.Salary)
+        @Html.ValidationMessageFor(e => e.Salary)
+    </div>
+    <div>
+        <label>Joining Date</label><br />
+        @Html.EditorFor(e => e.DOJ)
+        @Html.ValidationMessageFor(e => e.DOJ)
+    </div>
+    <br /><br />
+    <div>
+        <input type="submit" value="Save" />
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Employee Index", "Index")
+</div>

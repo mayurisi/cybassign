@@ -1,0 +1,26 @@
+﻿@using ModelsDemo.Models
+@model IEnumerable<Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Employee Index</h2>
+<h4>@Html.ActionLink("Add new employee", "AddEmployee")</h4>
+<hr />
+<h3>Current @Model.Count() employee details are in database</h3>
+
+<div>
+    @foreach (var emp in @Model)
+    {
+        @*<div>Employee Id : @emp.EmployeeId</div>*@
+        <div>Employee Name : @emp.Name</div>
+        @*<div>City : @emp.City</div>*@
+        <div>
+            @Html.ActionLink("Show", "ShowDetails", new { id = emp.EmployeeId }) |
+            @Html.ActionLink("Edit", "EditEmployee", new { id = emp.EmployeeId }) |
+            @Html.ActionLink("Delete", "DeleteEmployee", new { id = emp.EmployeeId })
+        </div>
+        <hr />
+    }
+</div>

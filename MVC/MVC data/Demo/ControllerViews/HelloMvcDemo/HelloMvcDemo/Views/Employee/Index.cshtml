@@ -1,0 +1,19 @@
+﻿@using HelloMvcDemo.ViewModels
+@model EmployeeViewModel
+
+@{
+    ViewBag.Title = "Index";
+    //Layout = "Someotherlayout";
+}
+
+<h2>Index</h2>
+<div>
+    @Html.Partial("_MyPartialView")
+</div>
+<div>
+    <h2>Employee Details</h2>
+    <p>Employee Id : @Model.EmployeeId</p>
+    <p>Name : @Model.Name</p>
+    <p>City : @Model.City</p>
+    <p>Username : @Model.Username</p>
+</div>

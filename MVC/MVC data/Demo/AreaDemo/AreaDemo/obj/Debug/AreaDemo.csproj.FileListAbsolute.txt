@@ -1,0 +1,165 @@
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\AreaDemo.dll.config
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\AreaDemo.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\AreaDemo.pdb
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Antlr3.Runtime.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\EntityFramework.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Newtonsoft.Json.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Owin.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Helpers.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Mvc.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Optimization.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Razor.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.WebPages.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\WebGrease.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Helpers.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Mvc.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Optimization.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.Razor.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.WebPages.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Newtonsoft.Json.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Antlr3.Runtime.pdb
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\EntityFramework.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\obj\Debug\AreaDemo.csprojResolveAssemblyReference.cache
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\obj\Debug\AreaDemo.dll
+C:\Users\sushantba\Desktop\AreaDemo\AreaDemo\obj\Debug\AreaDemo.pdb
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\AreaDemo.dll.config
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\AreaDemo.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\AreaDemo.pdb
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Antlr3.Runtime.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\EntityFramework.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\EntityFramework.SqlServer.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Newtonsoft.Json.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Owin.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Helpers.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Mvc.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Optimization.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Razor.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.WebPages.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.WebPages.Razor.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\WebGrease.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Helpers.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Mvc.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Optimization.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.Razor.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.WebPages.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\System.Web.WebPages.Razor.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Newtonsoft.Json.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Antlr3.Runtime.pdb
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\EntityFramework.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\EntityFramework.SqlServer.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\obj\Debug\AreaDemo.csprojResolveAssemblyReference.cache
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\obj\Debug\AreaDemo.dll
+D:\Training Materials\Technologies\MVC\Presentations_MVC5\S6_Advanced_Features\Demo\7.Areas\AreaDemo\AreaDemo\obj\Debug\AreaDemo.pdb
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\AreaDemo.dll.config
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\AreaDemo.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\AreaDemo.pdb
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Antlr3.Runtime.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\EntityFramework.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\EntityFramework.SqlServer.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Core.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Cookies.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Facebook.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Google.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.OAuth.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Twitter.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Web.Infrastructure.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Newtonsoft.Json.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Owin.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Helpers.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Mvc.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Optimization.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Razor.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.WebPages.Deployment.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.WebPages.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.WebPages.Razor.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\WebGrease.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Helpers.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Mvc.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Optimization.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.Razor.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.WebPages.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.WebPages.Deployment.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\System.Web.WebPages.Razor.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Newtonsoft.Json.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Antlr3.Runtime.pdb
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\EntityFramework.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\EntityFramework.SqlServer.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Core.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Facebook.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Cookies.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.OAuth.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Google.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.Twitter.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\obj\Debug\AreaDemo.csprojResolveAssemblyReference.cache
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\obj\Debug\AreaDemo.dll
+\\pune-SHARE\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\AreaDemo\AreaDemo\obj\Debug\AreaDemo.pdb

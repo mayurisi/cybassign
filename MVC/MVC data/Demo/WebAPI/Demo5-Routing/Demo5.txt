@@ -1,0 +1,2 @@
+1.Change Get() to Index() and HttpGet top of it.
+2.Change Get(int id) to Details(int id) and put HttpGet top of it.

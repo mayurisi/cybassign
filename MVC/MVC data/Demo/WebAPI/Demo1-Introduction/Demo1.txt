@@ -1,0 +1,36 @@
+1.Adding Model
+
+	public class Employee
+    {
+        public int EmployeeID { get; set; }
+        public string Name { get; set; }
+        public decimal Salary { get; set; }
+    }
+
+2.Adding WebApi2 Controller
+
+	public class EmployeeController : ApiController
+    {
+        private static List<Employee> empList = new List<Employee>()
+        {
+            new Employee{ EmployeeID=1, Name="Sachin", Salary=1000},
+            new Employee{ EmployeeID=2, Name="Saurav", Salary=1500}
+        };
+
+        public IEnumerable<Employee> Get()
+        {
+            return empList;
+        }
+
+        public Employee Get(int id)
+        {
+            return empList[id-1];
+        }
+
+    }
+
+3.Run the project
+
+	Call both the methods from URL of the home/index.cshtml.
+	URI - api/employee call first Get() method.
+	URI - api/employee/1 calls second Get(int id) method.

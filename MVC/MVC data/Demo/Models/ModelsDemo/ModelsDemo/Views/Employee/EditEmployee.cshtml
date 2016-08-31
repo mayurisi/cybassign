@@ -1,0 +1,39 @@
+﻿@using ModelsDemo.Models
+@model Employee
+@{
+    ViewBag.Title = "EditEmployee";
+}
+
+<h2>EditEmployee</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Employee Id</label><br />
+        @Html.EditorFor(emp => emp.EmployeeId)
+    </div>
+    <div>
+        <label>Name</label><br />
+        @Html.EditorFor(emp => emp.Name)
+    </div>
+    <div>
+        <label>City</label><br />
+        @Html.EditorFor(emp => emp.City)
+    </div>
+     <div>
+        <label>Salary</label><br />
+        @Html.EditorFor(emp => emp.Salary)
+    </div>
+     <div>
+        <label>Joining Date</label><br />
+        @Html.EditorFor(emp => emp.DOJ)
+    </div>
+    <br /><br />
+    <div>
+        <input type="submit" value="Save" />
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Employee Index", "Index")
+</div>

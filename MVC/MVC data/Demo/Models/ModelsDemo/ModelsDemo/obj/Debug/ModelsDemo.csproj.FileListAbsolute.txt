@@ -1,0 +1,110 @@
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\ModelsDemo.dll.config
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\ModelsDemo.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\ModelsDemo.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Antlr3.Runtime.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\EntityFramework.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\EntityFramework.SqlServer.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Newtonsoft.Json.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Owin.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Helpers.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Mvc.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Optimization.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Razor.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Razor.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\WebGrease.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Helpers.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Mvc.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Optimization.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.Razor.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Razor.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Newtonsoft.Json.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Antlr3.Runtime.pdb
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\EntityFramework.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\EntityFramework.SqlServer.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\obj\Debug\ModelsDemo.csprojResolveAssemblyReference.cache
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\obj\Debug\ModelsDemo.dll
+D:\Trainings Conducted\Fresher Training\18..NET_FrTP_Jul_2016\MVC\ModelsDemo\ModelsDemo\obj\Debug\ModelsDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\ModelsDemo.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\ModelsDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Antlr3.Runtime.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\EntityFramework.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\EntityFramework.SqlServer.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Core.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Cookies.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Facebook.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Google.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.OAuth.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Twitter.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Web.Infrastructure.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Newtonsoft.Json.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Owin.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Helpers.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Mvc.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Optimization.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Razor.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Deployment.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Razor.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\WebGrease.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Helpers.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Mvc.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Optimization.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.Razor.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Deployment.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\System.Web.WebPages.Razor.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Newtonsoft.Json.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Antlr3.Runtime.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\EntityFramework.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\EntityFramework.SqlServer.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Core.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Facebook.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Cookies.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.OAuth.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Google.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.Twitter.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\obj\Debug\ModelsDemo.csprojResolveAssemblyReference.cache
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\obj\Debug\ModelsDemo.dll
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\obj\Debug\ModelsDemo.pdb
+\\pune-share\Training_Cyb\Priyanka Shinde\Net_FrTP-July'16\TrainingContent\1.TrainingContent\MVC\Demo\Models\ModelsDemo\ModelsDemo\bin\ModelsDemo.dll.config

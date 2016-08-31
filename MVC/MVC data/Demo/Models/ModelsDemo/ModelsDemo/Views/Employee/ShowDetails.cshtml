@@ -1,0 +1,40 @@
+﻿@using ModelsDemo.Models
+@model Employee
+@{
+    ViewBag.Title = "ShowDetails";
+}
+
+<h2>Showing Details of requested employee</h2>
+
+@if(Model != null)
+{
+    <div>
+        <div>
+            @Html.DisplayNameFor(e => e.EmployeeId)
+            @Html.DisplayFor(e => e.EmployeeId)
+        </div>
+        <div>
+            @Html.DisplayNameFor(e => e.Name)
+            @Html.DisplayFor(e => e.Name)
+        </div>
+        <div>
+            @Html.DisplayNameFor(e => e.City)
+            @Html.DisplayFor(e => e.City)
+        </div>
+        <div>
+            @Html.DisplayNameFor(e => e.Salary)
+            @Html.DisplayFor(e => e.Salary)
+        </div>
+        <div>
+            @Html.DisplayNameFor(e => e.DOJ)
+            @Html.DisplayFor(e => e.DOJ)
+        </div>
+    </div>
+}
+else
+{ 
+    <div>Employee not found</div>
+}
+<div>
+    @Html.ActionLink("Back to Employee Index", "Index")
+</div>

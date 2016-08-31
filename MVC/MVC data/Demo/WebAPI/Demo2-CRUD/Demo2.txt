@@ -1,0 +1,107 @@
+1.Adding Model
+
+	public class Employee
+    {
+        public int? EmployeeID { get; set; }
+        public string Name { get; set; }
+        public decimal? Salary { get; set; }
+    }
+
+2.Adding WebApi2 Controller and 5 following action methods 
+	
+	i.Get(), 
+	ii.Get(int id), 
+	iii.Post(Employee emp),
+	iv.Put(int id, Employee emp);
+	v.Delete(int id).
+
+	public class EmployeeController : ApiController
+    {
+        private static List<Employee> empList = new List<Employee>()
+        {
+            new Employee{ EmployeeID=1, Name="Sachin", Salary=1000},
+            new Employee{ EmployeeID=2, Name="Saurav", Salary=1500}
+        };
+
+        public IEnumerable<Employee> Get()
+        {
+            return empList;
+        }
+
+        public Employee Get(int id)
+        {
+            Employee employee = empList.Find(e => e.EmployeeID == id);
+
+            if(employee == null)
+            {
+                //web api translates this exception into 404 or not found error
+                throw new HttpResponseException(HttpStatusCode.NotFound);
+            }
+
+            return employee;
+        }
+
+        public Employee Post(Employee emp)
+        {
+            emp.EmployeeID = empList.Count+1;
+            empList.Add(emp);
+
+            return emp;
+        }
+
+        public void Put(int id, Employee emp)
+        {
+            var employee = empList.Find(e => e.EmployeeID == id);
+            if(emp.EmployeeID == null)
+            {
+                emp.EmployeeID = employee.EmployeeID;
+            }
+
+            if(emp.Name == null)
+            {
+                emp.Name = employee.Name;
+            }
+
+            if(emp.Salary == null)
+            {
+                emp.Salary = employee.Salary;
+            }
+
+            empList.Remove(employee);
+            empList.Add(emp);
+        }
+
+        public void Delete(int id)
+        {
+            var employee = empList.Find(e => e.EmployeeID == id);
+            empList.Remove(employee);
+        }
+    }
+
+3.Run the project
+
+	Call both the methods from URL of the home/index.cshtml.
+	URI - api/employee call first Get() method.
+	URI - api/employee/1 calls second Get(int id) method.
+	
+4.Using Fiddler2
+
+	Use Fiddler2 to generate Post, Put and Delete methods.
+	
+5.Generating Post/Add request:
+	URI for Post - api/employee
+	Message Body - {name:"Sunil", salary:5000}
+	Content-Type - application/json
+	Accept Header - application/json
+	
+6.Generating Put/Update request:
+	URI for Post - api/employee/3
+	Message Body - {name:"Sunil Gavaskar"}
+	Content-Type - application/json
+	Accept Header - application/json
+	
+7.Generating Delete request:
+	URI for Post - api/employee/3	
+	Content-Type - application/json//not required
+	Accept Header - application/json//not required
+	

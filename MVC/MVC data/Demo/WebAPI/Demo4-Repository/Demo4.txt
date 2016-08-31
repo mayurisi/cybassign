@@ -1,0 +1,7 @@
+1.Create the IEmployeeRepository.cs file in the Models folder and write an interface IEmployeeRepository inside it.	
+	
+2.Create the EmployeeRepository.cs file in the model folder and write a class EmployeeRepository.
+
+3.Implement the IEmployeeRepository interface to EmployeeRepository class and also implement all 5 methods.
+
+4.Create an object of EmployeeRepository class in EmployeeController class and use the object to call all 5 methods in EmployeeRepository class.

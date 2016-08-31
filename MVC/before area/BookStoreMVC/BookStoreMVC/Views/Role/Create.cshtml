@@ -1,0 +1,16 @@
+﻿@model Microsoft.AspNet.Identity.EntityFramework.IdentityRole
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Role</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Role Name : @Html.EditorFor(m => m.Name)<br /><br>
+        <input type="submit" value="Create Role" />
+    </p>
+}
+
